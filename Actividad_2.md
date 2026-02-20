@@ -1,7 +1,7 @@
 ## Ejercicio 1.
 
 ### Investiga cuáles son los símbolos que se utilizan para representar cada operación de un algoritmo con un diagrama de flujo. Asegúrate de que la fuente es confiable, discute lo que encontraste con tus compañeros y con el profe. Cuando estés seguro/a de tener los símbolos correctos, consigna la información en la bitácora.  
-
+!https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.goconqr.com%2Fmapamental%2F17696847%2Falgoritmos&ved=0CBYQjRxqFwoTCMiZ88bT6JIDFQAAAAAdAAAAABAH&opi=89978449
 
 ## Ejercicio 2
 
