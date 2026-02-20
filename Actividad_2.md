@@ -61,29 +61,49 @@ Indica si las siguientes afirmaciones describen una variable o una constante:
 
 1. El valor de la gravedad en la Tierra, 9.8 m/s². Constante
 Es un valor fijo.  
-2. La edad de una persona calculada con base en el año actual y su año de nacimiento.
-3. La cantidad de dinero en una cuenta bancaria.
-4. La velocidad de la luz en el vacío, 299,792,458 m/s.
-5. El radio de un círculo.
+2. La edad de una persona calculada con base en el año actual y su año de nacimiento. Variable
+Cambia con el tiempo.    
+3. La cantidad de dinero en una cuenta bancaria. Variable
+Puede aumentar o disminuir.    
+4. La velocidad de la luz en el vacío, 299,792,458 m/s. Constante
+Es un valor universal fijo.    
+5. El radio de un círculo. Variable
+Puede tomar distintos valores según el círculo.    
 
 ### Parte 3: Características de los Algoritmos
 
 Responde si los siguientes enunciados cumplen con las características de un algoritmo. Justifica la respuesta:
 
-1. Para elegir la ruta más corta entre varias ciudades, el algoritmo examina rutas candidatas, deteniéndose cuando los cambios en la distancia parecen lo suficientemente pequeños.
-2. Suma los números ingresados y muestra el resultado.
-3. Un conjunto de pasos para calcular el área de un rectángulo dado su base y altura.
-4. El algoritmo cuenta el número de votos obtenidos por cada uno de los candidatos de una elección para presidente. Empieza solicitando el nombre del candidato y finaliza cuando se ingresa el valor -1.
+1. Para elegir la ruta más corta entre varias ciudades, el algoritmo examina rutas candidatas, deteniéndose cuando los cambios en la distancia parecen lo suficientemente pequeños. NO cumple
+No es preciso ni finito; el criterio es subjetivo.    
+2. Suma los números ingresados y muestra el resultado. SÍ cumple
+Es claro, preciso y termina.    
+3. Un conjunto de pasos para calcular el área de un rectángulo dado su base y altura. SÍ cumple
+Tiene entradas, proceso y salida definidos.    
+4. El algoritmo cuenta el número de votos obtenidos por cada uno de los candidatos de una elección para presidente. Empieza solicitando el nombre del candidato y finaliza cuando se ingresa el valor -1. SÍ cumple
+Tiene condición de finalización clara.    
 
 ### Parte 4: Comprensión de Herramientas
 
 Indica si las siguientes afirmaciones son ciertas o falsas respecto al pseudocódigo y diagramas de flujo:
 
-1. El pseudocódigo utiliza símbolos estándar para representar las operaciones lógicas.
-2. Los diagramas de flujo son una representación gráfica de un algoritmo.
-3. El pseudocódigo debe estar escrito en un lenguaje de programación específico.
-4. Un diagrama de flujo siempre debe tener un inicio y un fin claramente definidos.
+1. El pseudocódigo utiliza símbolos estándar para representar las operaciones lógicas. FALSO
+Usa lenguaje estructurado, no símbolos gráficos.    
+2. Los diagramas de flujo son una representación gráfica de un algoritmo. VERDADERO    
+3. El pseudocódigo debe estar escrito en un lenguaje de programación específico. FALSO
+Es independiente del lenguaje de programación.    
+4. Un diagrama de flujo siempre debe tener un inicio y un fin claramente definidos. VERDADERO    
 
 ### Parte 5: Estructuras de Control
 
-Describe para qué sirven las estructuras de control. Redacta dos ejemplos, uno de tu vida diaria, es decir cuando tienes que tomar decisiones en tus actividades diarias y oto ejemplo en el que se tengan que utilizar cálculos matemáticos para tomar una u otra decisión.
+Describe para qué sirven las estructuras de control. Redacta dos ejemplos, uno de tu vida diaria, es decir cuando tienes que tomar decisiones en tus actividades diarias y oto ejemplo en el que se tengan que utilizar cálculos matemáticos para tomar una u otra decisión.    
+¿Para qué sirven?
+Permiten controlar el flujo de ejecución de un algoritmo: decidir, repetir acciones o ejecutar pasos según condiciones.
+
+Ejemplo vida diaria (decisión):
+Si está lloviendo → llevo paraguas.
+Si no → salgo normalmente.
+
+Ejemplo con cálculo matemático:
+Si el promedio de notas ≥ 3.0 → apruebo la materia.
+Si es menor → debo repetirla.
