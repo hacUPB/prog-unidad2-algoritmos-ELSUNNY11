@@ -33,13 +33,22 @@
 
 5. **Detección de turbulencia en trayecto**
     
-    Un sensor mide la aceleración vertical de la aeronave en intervalos de un segundo durante un trayecto de 2 minutos. Si el valor medido supera un umbral, indicar que se ha detectado turbulencia en ese instante. Al final, mostrar cuántas turbulencias se detectaron.
+    Un sensor mide la aceleración vertical de la aeronave en intervalos de un segundo durante un trayecto de 2 minutos. Si el valor medido supera un umbral, indicar que se ha detectado turbulencia en ese instante. Al final, mostrar cuántas turbulencias se detectaron.    
+   Inicio
+   SO = 0
+   Mostrar "Ingresa umbral màximo"    
+   Leer aceleraciòn_vertical
+   Si aceleraciòn_vertical > umbral    
+   Mostrar "Precauciòn detecciòn de turbulencia"
+   Sino, 
+   
+
     
-6. **Control de temperatura en cabina**
+7. **Control de temperatura en cabina**
     
     Un sistema mide cada 5 minutos la temperatura en cabina durante una hora. Si en algún momento se detecta una temperatura mayor a 27°C o menor a 18°C, debe indicar que se active el sistema de climatización.
     
-7. **Simulación de conteo de pasajeros**
+8. **Simulación de conteo de pasajeros**
     
     Durante el abordaje, un sistema cuenta a los pasajeros que ingresan. Si el número total supera la capacidad máxima, el sistema debe detener el conteo y mostrar un mensaje de alerta.
 
