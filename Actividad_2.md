@@ -1,7 +1,59 @@
 ## Ejercicio 1.
 
 ### Investiga cuáles son los símbolos que se utilizan para representar cada operación de un algoritmo con un diagrama de flujo. Asegúrate de que la fuente es confiable, discute lo que encontraste con tus compañeros y con el profe. Cuando estés seguro/a de tener los símbolos correctos, consigna la información en la bitácora.  
-!https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.goconqr.com%2Fmapamental%2F17696847%2Falgoritmos&ved=0CBYQjRxqFwoTCMiZ88bT6JIDFQAAAAAdAAAAABAH&opi=89978449
+1. Inicio / Fin (Terminal)
+
+Forma: óvalo
+
+Representa: comienzo o final del algoritmo.
+
+2. Proceso
+
+Forma: rectángulo
+
+Representa: operaciones o instrucciones (cálculos, asignaciones, acciones).
+
+3. Entrada / Salida de datos
+
+Forma: paralelogramo
+
+Representa: lectura de datos o presentación de resultados.
+
+4. Decisión
+
+Forma: rombo
+
+Representa: evaluación de una condición que genera dos o más caminos.
+
+5. Línea de flujo
+
+Forma: flecha
+
+Representa: dirección del proceso y orden de ejecución.
+
+6. Conector (misma página)
+
+Forma: círculo
+
+Representa: unión de partes del diagrama sin cruzar líneas.
+
+7. Conector fuera de página
+
+Forma: pentágono
+
+Representa: continuación del diagrama en otra página.
+
+8. Subproceso / Proceso predefinido
+
+Forma: rectángulo con doble borde lateral
+
+Representa: llamada a otro algoritmo o procedimiento.
+
+9. Documento
+
+Forma: rectángulo con base ondulada
+
+Representa: generación o uso de un documento.
 
 ## Ejercicio 2
 
